@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\bin\Debug\DrawingPad.exe.config
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\bin\Debug\DrawingPad.exe
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\bin\Debug\DrawingPad.pdb
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\obj\Debug\DrawingPad.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\obj\Debug\DrawingPad.Form1.resources
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\obj\Debug\DrawingPad.Properties.Resources.resources
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\obj\Debug\DrawingPad.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\obj\Debug\DrawingPad.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\obj\Debug\DrawingPad.exe
+C:\Users\Dell\source\repos\DrawingPad\DrawingPad\obj\Debug\DrawingPad.pdb
